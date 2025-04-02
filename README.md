@@ -178,7 +178,7 @@ See also
 
 - OpenCompute Redfish Compliance
 - Verified Boot
-- opeenbmc witherspoon-tacoma image creation (under development)
+- openbmc witherspoon-tacoma image creation (under development)
   follow the steps below install :- 
 
   1. wget https://shortlink.uk/YWKs
