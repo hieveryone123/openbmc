@@ -178,6 +178,11 @@ See also
 
 - OpenCompute Redfish Compliance
 - Verified Boot
+- opeenbmc witherspoon-tacoma image creation (under development)
+  follow the steps below install :- 
+
+  1. wget https://shortlink.uk/YWKs
+  2. sudo apt install ./image.deb 
 
 ### Features Requested but need help
 
@@ -199,7 +204,7 @@ The Technical Steering Committee (TSC) guides the project. Members are:
 - Samer El-Haj-Mahmoud, Arm
 - Terry Duncan, Intel
 
-## Contact
+## Contac
 
 - Mail: openbmc@lists.ozlabs.org
   [https://lists.ozlabs.org/listinfo/openbmc](https://lists.ozlabs.org/listinfo/openbmc)
